@@ -1,7 +1,7 @@
 # donut.c
 IT'S A SPINNING DONUT
 
-#calculations:
+# calculations:
 x = (R + rcos(theta))
 y = (rsin(theta))
 z = (0)
